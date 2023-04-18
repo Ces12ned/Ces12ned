@@ -1,6 +1,6 @@
 <h1 align="center">¡Hey, I'm Edgar Cisneros!</h1>
 <h3 align="center">Mechatronics Engineer with Master's Degree in Control Systems</h3>
-<h3 align="center">   <img src="https://yt3.googleusercontent.com/ytc/AGIKgqPziGkoIEA5k6v_430hdiGDRuWxWMfM2z2QTAnHpQ=s176-c-k-c0x00ffffff-no-rj" alt="apple" width="30" height="30"/>   iOS Developer   </h3>
+<h3 align="center">   <img src="https://1000logos.net/wp-content/uploads/2016/10/apple-emblem.jpg" alt="apple" width="30" height="30"/>   iOS Developer   </h3>
 
 
 <h3 align="left">Connect with me:</h3>
