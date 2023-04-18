@@ -1,6 +1,6 @@
 <h1 align="center">¡Hey, I'm Edgar Cisneros!</h1>
 <h3 align="center">Mechatronics Engineer with Master's Degree in Control Systems</h3>
-<h3 align="center">   <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.hiclipart.com%2Ffree-transparent-background-png-clipart-byjoa&psig=AOvVaw2LpYgnsTgRY2Xbrir4GnTW&ust=1681880714439000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOD_hobUsv4CFQAAAAAdAAAAABAJ" alt="apple" width="35" height="30"/>   iOS Developer   </h3>
+<h3 align="center">   <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Dapple%2Blogo&psig=AOvVaw2hjcYBii4v-k4ehMsPP0Wh&ust=1681881315463000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOj8h6vXsv4CFQAAAAAdAAAAABAE" alt="apple" width="35" height="30"/>   iOS Developer   </h3>
 
 
 <h3 align="left">Connect with me:</h3>
