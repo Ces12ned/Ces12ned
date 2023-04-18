@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Edgar Cisneros</h1>
 <h3 align="center">Mechatronics Engineer with Master's Degree in Control Systems</h3>
-<h3 align="center">iOS Developer <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="10" height="10"/> </h3>
+<h3 align="center">iOS Developer <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="25" height="25"/> </h3>
 
 
 <h3 align="left">Connect with me:</h3>
