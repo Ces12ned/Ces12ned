@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Edgar Cisneros</h1>
+<h1 align="center">Hey, I'm Edgar Cisneros</h1>
 <h3 align="center">Mechatronics Engineer with Master's Degree in Control</h3>
 
 <h3 align="left">Connect with me:</h3>
