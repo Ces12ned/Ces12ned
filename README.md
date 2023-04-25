@@ -13,7 +13,7 @@
   <a href="mailto:cisns.edg@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="discordapp.com/users/471867145228255302">
+  <a href="https://discord.com/users/471867145228255302">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
 </div>
   
